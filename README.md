@@ -5,15 +5,19 @@
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA0em40am5ucTV2NXdiZXl6MDMwMXhhdDV0OWFuemE1ZzhmYmY3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 
 
-- 🔭 I’m currently working on [Hackathon](https://hackathone-quater-2.vercel.app/)
+- 🔭 I’m currently working on AI Agents
 
-- 🌱 I’m currently learning **Agentic AI / Python**
+- 🌱 I’m currently learning **Agentic AI / Python / Streamlit / Chainlit**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikram-singh9](https://github.com/vikram-singh9)
 
 - 📝 I regularly write articles on [https://medium.com/@Vkram](https://medium.com/@Vkram)
 
-- 💬 Ask me about **react / nextJS / TypeScript /JavaScript / Python**
+- 🐤 Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vkram90)
+
+- 🖇 Follow me on Linkedin [https://www.linkedin.com/in/vikramsinghdev/](https://www.linkedin.com/in/vikramsinghdev/)
+
+- 💬 Ask me about **react / nextJS / TypeScript /JavaScript / Python / AI**
 
 - 📫 How to reach me **vikram.dev.co@gmail.com**
 
