@@ -28,7 +28,8 @@
 | **CI / CD & Tools**                             | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-2E2E2E?style=flat&logo=visualstudiocode&logoColor=white) |
 
 | **Databases**   | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Agentic AI Frameworks**                       | ![CrewAI](https://img.shields.io/badge/-CrewAI-1E90FF?style=flat&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-4B0082?style=flat&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-5C2D91?style=flat&logoColor=white) |
+
+| **Agentic AI Frameworks**   | ![CrewAI](https://img.shields.io/badge/-CrewAI-1E90FF?style=flat&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-4B0082?style=flat&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-5C2D91?style=flat&logoColor=white) |
 
 
 
