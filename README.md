@@ -36,25 +36,25 @@
                                                                                        
                                                                                                                                                                                                                                                                         
 
-- 🔭 I’m currently working on AI Agents
+| I’m currently working on AI Agents
 
-- 🌱 I’m currently learning **Agentic AI / Python / Streamlit / Chainlit**
+| I’m currently learning **Agentic AI / Python / Streamlit / Chainlit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikram-singh9](https://github.com/vikram-singh9)
+| All of my projects are available at [https://github.com/vikram-singh9](https://github.com/vikram-singh9)
 
-- 📝 I regularly write articles on [https://medium.com/@Vkram](https://medium.com/@Vkram)
+| I regularly write articles on [https://medium.com/@Vkram](https://medium.com/@Vkram)
 
-- 🐤 Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vkram90)
+| Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vkram90)
 
-- 🖇 Follow me on Linkedin [https://www.linkedin.com/in/vikramsinghdev/](https://www.linkedin.com/in/vikramsinghdev/)
+| Follow me on Linkedin [https://www.linkedin.com/in/vikramsinghdev/](https://www.linkedin.com/in/vikramsinghdev/)
 
-- 💬 Ask me about **react / nextJS / TypeScript /JavaScript / Python / AI**
+| Ask me about **react / nextJS / TypeScript /JavaScript / Python / AI**
 
-- 📫 How to reach me **vikram.dev.co@gmail.com**
+| How to reach me **vikram.dev.co@gmail.com**
 
-- 📄 Know about my experiences [https://vikram-portfolio119.vercel.app/](https://vikram-portfolio119.vercel.app/)
+| Know about my experiences [https://vikram-portfolio119.vercel.app/](https://vikram-portfolio119.vercel.app/)
 
-- ⚡ Fun fact **I can turn complex problems into simple solutions with a dash of creativity.**
+| Fun fact **I can turn complex problems into simple solutions with a dash of creativity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
