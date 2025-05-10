@@ -2,12 +2,12 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/vikram-singh9/vikram-singh9"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/vikram-singh9"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/vikram-singh9/PORTFOLIO"><img src="https://img.shields.io/github/stars/vikram-singh9/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/vikram-singh9"><img src="https://img.shields.io/github/forks/vikram-singh9/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=vikram-singh9.vikram-singh9" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
@@ -19,6 +19,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Vikram+Singh;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things;Agentic+AI+enthusiast)](https://git.io/typing-svg)
 
 
+## My Tech Stack
+
+| **Languages / IDEs**                            | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-3C3C3C?style=flat&logo=Cursor&logoColor=white) |
+
+| **Domains**                                     | ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-01D277?style=flat&logoColor=white) ![Web3](https://img.shields.io/badge/-Web3-6e00ff?style=flat&logo=ethereum&logoColor=white) ![Software Development](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white) |
+
+| **CI / CD & Tools**                             | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Markdown](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-2E2E2E?style=flat&logo=visualstudiocode&logoColor=white) |
+
+| **Databases**   | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+
+| **Agentic AI Frameworks**   | ![CrewAI](https://img.shields.io/badge/-CrewAI-1E90FF?style=flat&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-4B0082?style=flat&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-5C2D91?style=flat&logoColor=white) |
+
 
 
 
@@ -26,25 +38,25 @@
                                                                                        
                                                                                                                                                                                                                                                                         
 
-- 🔭 I’m currently working on AI Agents
+| I’m currently working on AI Agents
 
-- 🌱 I’m currently learning **Agentic AI / Python / Streamlit / Chainlit**
+| I’m currently learning **Agentic AI / Python / Streamlit / Chainlit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikram-singh9](https://github.com/vikram-singh9)
+| All of my projects are available at [https://github.com/vikram-singh9](https://github.com/vikram-singh9)
 
-- 📝 I regularly write articles on [https://medium.com/@Vkram](https://medium.com/@Vkram)
+| I regularly write articles on [https://medium.com/@Vkram](https://medium.com/@Vkram)
 
-- 🐤 Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vkram90)
+| Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vkram90)
 
-- 🖇 Follow me on Linkedin [https://www.linkedin.com/in/vikramsinghdev/](https://www.linkedin.com/in/vikramsinghdev/)
+| Follow me on Linkedin [https://www.linkedin.com/in/vikramsinghdev/](https://www.linkedin.com/in/vikramsinghdev/)
 
-- 💬 Ask me about **react / nextJS / TypeScript /JavaScript / Python / AI**
+| Ask me about **react / nextJS / TypeScript /JavaScript / Python / AI**
 
-- 📫 How to reach me **vikram.dev.co@gmail.com**
+| How to reach me **vikram.dev.co@gmail.com**
 
-- 📄 Know about my experiences [https://vikram-portfolio119.vercel.app/](https://vikram-portfolio119.vercel.app/)
+| Know about my experiences [https://vikram-portfolio119.vercel.app/](https://vikram-portfolio119.vercel.app/)
 
-- ⚡ Fun fact **I can turn complex problems into simple solutions with a dash of creativity.**
+| Fun fact **I can turn complex problems into simple solutions with a dash of creativity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,18 +74,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram-singh9&show_icons=true&locale=en" alt="vikram-singh9" /></p>
                                                                                                                                                                                           
                                                                                                                                                                                           
-                                                                                                                                                                              
-                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
-
-
+                                                                                                                                                                      
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
+counting of visitors to this page in this section started from May 7, 2025
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![](https://count.getloli.com/get/@vikram-singh9.github.readme)
 </br>
 
 [MIT](LICENSE)
@@ -93,3 +98,5 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 
 This profile README is based on a template by [Andrej Marinchenko](https://github.com/BEPb)  
 Used under the [MIT License](./LICENSE)
+
+![](assets/Bottom_down.svg)
