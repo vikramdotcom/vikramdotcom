@@ -100,4 +100,3 @@ This profile README is based on a template by [Andrej Marinchenko](https://githu
 Used under the [MIT License](./LICENSE)
 
 ![](assets/Bottom_down.svg)
-xvzvsvasvvsvsvdvsdvsvsdvvsdvsvasdvsbsvsvrvssvvsvsvsrvsrvsveesvsevsevesvssvvs
