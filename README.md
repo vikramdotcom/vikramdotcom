@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)h
+![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
 <p align="center">
