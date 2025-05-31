@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)d
+![](assets/Bottom_up.svg)
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/vikram-singh9/vikram-singh9"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
