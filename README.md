@@ -45,7 +45,7 @@
 
 | I regularly write articles on [https://medium.com/@Vkram](https://medium.com/@Vkram)
 
-| Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vkram90)
+| Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vikramtechwala)
 
 | Follow me on Linkedin [https://www.linkedin.com/in/vikramsinghdev/](https://www.linkedin.com/in/vikramsinghdev/)
 
@@ -53,7 +53,7 @@
 
 | How to reach me **vikram.dev.co@gmail.com**
 
-| Know about my experiences [https://vikram-portfolio119.vercel.app/](https://vikram7.vercel.app/)
+| Know about my experiences [https://vikram7.vercel.app/](https://vikram7.vercel.app/)
 
 | Fun fact **I can turn complex problems into simple solutions with a dash of creativity.**
 
