@@ -41,11 +41,11 @@
 
 | I’m currently learning **Agentic AI / Python / Streamlit / Chainlit**
 
-| All of my projects are available at [https://github.com/vikram-singh9](https://github.com/vikramdotcom)
+| All of my projects are available at [https://github.com/vikramdotcom](https://github.com/vikramdotcom)
 
 | I regularly write articles on [https://medium.com/@Vkram](https://medium.com/@Vkram)
 
-| Follow me on x [https://x.com/@Vkram90](https://x.com.com/@Vikramtechwala)
+| Follow me on x [https://x.com/@Vkramtechwala](https://x.com.com/@Vikramtechwala)
 
 | Follow me on Linkedin [https://www.linkedin.com/in/vikramsinghdev/](https://www.linkedin.com/in/vikramsinghdev/)
 
@@ -53,7 +53,7 @@
 
 | How to reach me **vikram.dev.co@gmail.com**
 
-| Know about my experiences [https://vikram7.vercel.app/](https://www.vikrambuilds.site/)
+| Know about my experiences [https://vikrambuilds.site/](https://www.vikrambuilds.site/)
 
 | Fun fact **I can turn complex problems into simple solutions with a dash of creativity.**
 
